@@ -8,7 +8,7 @@
 Programador web y desarrollador frontend con más de 10 años de trayectoria. Me especializo en crear interfaces intuitivas, accesibles y estéticamente atractivas. Mi enfoque actual está en el ecosistema moderno de JavaScript, escalando soluciones robustas con frameworks de vanguardia.
 <br>
 <br>
-Me apasiona diseñar interfaces donde la estética y la usabilidad convergen. Tras 10 años dominando los pilares del desarrollo frontend y WordPress, he dado el salto hacia el dominio de stacks modernos como React y Node. Entiendo la tecnología como un aprendizaje continuo: es la única vía para ofrecer resultados de alto impacto y mantenerme a la vanguardia de una industria que nunca se detiene. Mi objetivo siempre es el mismo: código limpio, interfaces intuitivas y soluciones de alta calidad.
+Me apasiona diseñar interfaces donde la estética y la usabilidad convergen. Tras 10 años dominando los pilares del desarrollo frontend, he dado el salto hacia el dominio de stacks modernos como React y Node. Entiendo la tecnología como un aprendizaje continuo: es la única vía para ofrecer resultados de alto impacto y mantenerme a la vanguardia de una industria que nunca se detiene. Mi objetivo siempre es el mismo: código limpio, interfaces intuitivas y soluciones de alta calidad.
   
 * 🌍  Base en Asturias
 * 🖥️  Mi porfolio <a href="https://devcodewolf.com" target="_blank">devcodewolf.com</a>
