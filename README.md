@@ -1,10 +1,3 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/desarrollador1982/desarrollador1982/main/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg" 
-    alt="Header" 
-    style="height: 450px; width: 100%; object-fit: cover;" 
-  />
-</p>
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> Soy Devcodewolf
 
@@ -15,8 +8,8 @@
 Programador web y desarrollador frontend con más de 10 años de trayectoria. Me especializo en crear interfaces intuitivas, accesibles y estéticamente atractivas. Mi enfoque actual está en el ecosistema moderno de JavaScript, escalando soluciones robustas con frameworks de vanguardia.
 <br>
 <br>
-Siempre intentando crear interfaces intuitivas y estéticamente agradables para los usuarios. Trabajando con un amplio espectro de tecnologías web, incluyendo HTML, CSS, JavaScript, Wordpress y ahora me formo para dominar frameworks como React, Laravel, Node... Siempre buscando aprender nuevos lenguajes y tecnologías. La educación continua es fundamental para mí, ya que creo que es la clave para mantenerse relevante y seguir entregando soluciones de alta calidad.
-
+Me apasiona diseñar interfaces donde la estética y la usabilidad convergen. Tras 10 años dominando los pilares del desarrollo frontend y WordPress, he dado el salto hacia el dominio de stacks modernos como React y Node. Entiendo la tecnología como un aprendizaje continuo: es la única vía para ofrecer resultados de alto impacto y mantenerme a la vanguardia de una industria que nunca se detiene. Mi objetivo siempre es el mismo: código limpio, interfaces intuitivas y soluciones de alta calidad.
+  
 * 🌍  Base en Asturias
 * 🖥️  Mi porfolio <a href="https://devcodewolf.com" target="_blank"> devcodewolf.com<\a>.... 
 * 🧠  Aprendiendo ... [ React, NextJS, Node y más]
