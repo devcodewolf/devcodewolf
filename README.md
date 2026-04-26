@@ -1,17 +1,28 @@
-![Header](https://raw.githubusercontent.com/desarrollador1982/desarrollador1982/main/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/desarrollador1982/desarrollador1982/main/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg" 
+    alt="Header" 
+    style="height: 450px; width: 100%; object-fit: cover;" 
+  />
+</p>
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> Soy Devcodewolf
 
 ### Desarrollador Web & Frontend Senior
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400px">
+<p dir="auto"><img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="width: 420px; height: 300px; max-width: 100%;"></p>
+
+<p dir="auto">
+Programador web y desarrollador frontend con más de 10 años de trayectoria. Me especializo en crear interfaces intuitivas, accesibles y estéticamente atractivas. Mi enfoque actual está en el ecosistema moderno de JavaScript, escalando soluciones robustas con frameworks de vanguardia.
+<br>
+<br>
+Siempre intentando crear interfaces intuitivas y estéticamente agradables para los usuarios. Trabajando con un amplio espectro de tecnologías web, incluyendo HTML, CSS, JavaScript, Wordpress y ahora me formo para dominar frameworks como React, Laravel, Node... Siempre buscando aprender nuevos lenguajes y tecnologías. La educación continua es fundamental para mí, ya que creo que es la clave para mantenerse relevante y seguir entregando soluciones de alta calidad.
+
+* 🌍  Base en Asturias
+* 🖥️  Mi porfolio <a href="https://devcodewolf.com" target="_blank"> devcodewolf.com<\a>.... 
+* 🧠  Aprendiendo ... [ React, NextJS, Node y más]
 </p>
 
-Programador web y desarrollador frontend con **más de 10 años de trayectoria**. Me especializo en crear interfaces intuitivas, accesibles y estéticamente atractivas. Mi enfoque actual está en el ecosistema moderno de JavaScript, escalando soluciones robustas con frameworks de vanguardia.
-
-* 🌍 **Ubicación:** Asturias, España.
-* 🧠 **Aprendiendo:** React, NextJS, Node, Qwik y arquitecturas escalables.
-* 💼 **Objetivo:** Seguir entregando soluciones de alta calidad y mantenerme a la vanguardia tecnológica.
+<br><br>
 
 ---
 
