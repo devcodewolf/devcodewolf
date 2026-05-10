@@ -69,7 +69,7 @@ Me apasiona diseñar interfaces donde la estética y la usabilidad convergen. Tr
 
 ### 👋 Conectemos
 <p align="left">
-<a href="https://www.linkedin.com/in/raul-fdez-glez-750398205/" target="_blank">
+<a href="https://www.linkedin.com/in/raul-f-750398205" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
